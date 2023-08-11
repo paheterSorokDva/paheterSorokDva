@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PAHETER
-- 👀 I’m interested in Unity
+- 👀 I’m interested in Unity and WEB
 - 🌱 I’m currently learning BlockChain
 - 💞️ I’m looking to collaborate on Fornt-end and Back-end
 - 📫 How to reach me hz
