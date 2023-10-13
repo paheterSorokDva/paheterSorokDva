@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PAHETER
 - 👀 I’m interested in Dev
 - 🌱 I’m currently learning small
-- 💞️ I’m looking to collaborate on Fornt-end and Back-end
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me hz
 - ✅ Последователь набирающей популярность методологии [GDD](https://github.com/turborium/GDD) ✅
 <!---
